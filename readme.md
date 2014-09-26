@@ -10,6 +10,8 @@ It's a work in progress and I may add additional styles and features over time.
 * Insert Table/Figure Here
 * Reference
 
+As a general note, most journal submission systems are not compatable with
+"docx", so it make sense to save the file as "doc" format.
 
 # Analysis Notes
 The analysis notes template is a word template that I use for running
@@ -25,3 +27,8 @@ The main styles are
 Licence: GPL2
 
 
+# Response to reviewiers
+`response-to-reviewers.dotx` is a template with styles that I use when
+resubmitting a manuscript following a revise and resubmit decision.
+The template has styles for organising reviewer comments, responses, and quoting
+changes. See the document for comments on the styles that I use.
