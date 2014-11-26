@@ -34,3 +34,6 @@ The template has styles for organising reviewer comments, responses, and quoting
 changes. See the document for comments on the styles that I use.
 
 
+# Accepted version template
+`accepted-version.dotx` is a template for converting submitted manuscripts into
+a more reader-friendly style for sharing on institutional repositories.
