@@ -37,3 +37,14 @@ changes. See the document for comments on the styles that I use.
 # Accepted version template
 `accepted-version.dotx` is a template for converting submitted manuscripts into
 a more reader-friendly style for sharing on institutional repositories.
+
+# Working notes
+`working-notes.dotx` is a template for workings. For every project that I am
+working on I have a workings-file. It is similar to a lab book used in some
+physical sciences. I use it for many things including: (a) brainstorming
+structure, (b) recording preliminary analyses, (c) making notes on readings that
+might be incorporated into a paper, (d) brainstorming journal submission
+strategies, etc. The page is designed to be as long as MS Word will allow. Thus,
+there are fewer page breaks to interfere with the flow. And ultimately, the
+document is not designed for printing. Heading 1 provides broad sections.
+Heading 2 is numbered and designed for specific topics.
